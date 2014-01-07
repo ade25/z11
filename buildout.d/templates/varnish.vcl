@@ -32,6 +32,22 @@ sub vcl_recv {
     } else {
         set req.http.X-Forwarded-For = regsub(client.ip, ":.*", "");
     }
+
+    #
+    # Do Plone cookie sanitization, so cookies do not destroy cacheable anonymous pages
+    #
+    if (req.http.Cookie) {
+        set req.http.Cookie = ";" + req.http.Cookie;
+        set req.http.Cookie = regsuball(req.http.Cookie, "; +", ";");
+        set req.http.Cookie = regsuball(req.http.Cookie, ";(statusmessages|__ac|_ZopeId|__cp)=", "; \1=");
+        set req.http.Cookie = regsuball(req.http.Cookie, ";[^ ][^;]*", "");
+        set req.http.Cookie = regsuball(req.http.Cookie, "^[; ]+|[; ]+$", "");
+
+        if (req.http.Cookie == "") {
+            remove req.http.Cookie;
+        }
+    }
+
     if (req.request == "PURGE") {
         if (!client.ip ~ purge) {
                 error 405 "Not allowed.";
