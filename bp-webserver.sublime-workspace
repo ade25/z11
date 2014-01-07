@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"error",
+				"errorIdx"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"I",
+				"IContentListing"
+			],
+			[
+				"sta",
+				"star_selection"
+			],
+			[
+				"get",
+				"getFieldsInOrder"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 386.0,
+		"selected_items":
+		[
+			[
+				"gti co",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"gti add",
+				"Git: Add..."
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"gi tpush",
+				"Git: Push"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"sub",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"git un",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"gti c",
+				"Git: Commit"
+			],
+			[
+				"gti pull",
+				"Git: Pull"
+			],
+			[
+				"gti push",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"gti co ",
+				"Git: Commit"
+			],
+			[
+				"",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package control instal",
+				"Package Control: Install Package"
+			],
+			[
+				"set synt",
+				"Set Syntax: ZPT"
+			],
+			[
+				"set sy",
+				"Set Syntax: ZPT"
+			],
+			[
+				"set syn",
+				"Set Syntax: ZPT"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Sub",
+				"SublimeLinter: Background Linting"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 571.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cb/devel/re/buildout.re/src/erben.blog/erben/blog/blogentry_templates/view.pt",
+		"/Users/cb/devel/re/buildout.re/deployment.cfg",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/_layouts/theme.html",
+		"/Users/cb/devel/re/buildout.re/src/erben.blog/erben/blog/blog_templates/view.pt",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/less/settings.less",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/dist/theme.html",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/dist/calendar.html",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/rules.xml",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/_layouts/default.html",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/calendar.html",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/_includes/sidebar.html",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/less/application.less",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/_includes/javascript.html",
+		"/Users/cb/devel/re/buildout.re/src/erben.blog/erben/blog/blogview_templates/blogview.pt",
+		"/Users/cb/devel/re/buildout.re/parts/omelette/plone/app/layout/viewlets/sections.pt",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/Gruntfile.js",
+		"/Users/cb/devel/re/buildout.re/parts/omelette/plone/app/layout/viewlets/common.py",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/_includes/toolbar.html",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/_includes/brandbar.html",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/templates/theme.html",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/_includes/webfonts.html",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/index.html",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/_includes/footer.html",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/_includes/head.html",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/less/styles.less",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/package.json",
+		"/Users/cb/devel/re/buildout.re/packages.cfg",
+		"/Users/cb/devel/re/buildout.re/development.cfg",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/theme.html",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/_config.yml",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/bower.json",
+		"/Users/cb/devel/re/buildout.re/.gitignore",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/.bowerrc",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/.editorconfig",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/.gitignore",
+		"/Users/cb/devel/re/buildout.re/src/erben.sitetheme/erben/sitetheme/resources/js/.jshint",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/jobfolder.py",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/navbar_templates/navbarviewlet.pt",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/_layouts/frontpage.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/frontpage.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/jobfolder_templates/view.pt",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/inquiry_templates/inquiryform.pt",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/inquiry_templates/inquiryprocessed.pt",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/inquiry.py",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/inquirymail.pt",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/jobopening.py",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/jobopening_templates/view.pt",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/rules.xml",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/navbar.py",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/contentpage_templates/view.pt",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/less/header.less",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/_includes/navbar.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/setup.py",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/profiles/default/browserlayer.xml",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/interfaces.py",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/dist/frontpage.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/profiles/default/types/ro.sitecontent.jobfolder.xml",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/profiles/default/types/ro.sitecontent.jobopening.xml",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/less/application.less",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/theme.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/_layouts/default.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/work-fm.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/imprint.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/_layouts/theme.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/less/settings.less",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/_includes/brandbar.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/bower_components/diazo-plone/less/plone.less",
+		"/Users/cb/devel/roconsulting/buildout.ro/packages.cfg",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/index.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/package.json",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/bower.json",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/_includes/footer.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/development.cfg",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/contentpage.py",
+		"/Users/cb/devel/roconsulting/buildout.ro/deployment.cfg",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitecontent/ro/sitecontent/contentpage_templates/sampleview.pt",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/_layouts/simple.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/less/footer.less",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/js/main.js",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/less/signin.less",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/signin.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/_includes/javascript.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme/ro/sitetheme/resources/_includes/webfonts.html",
+		"/Users/cb/devel/roconsulting/buildout.ro/known-good-versions.cfg",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/signin.html",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/rules.xml",
+		"/Users/cb/devel/adk/buildout.adk/.gitignore",
+		"/Users/cb/devel/adk/buildout.adk/development.cfg",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/less/footer.less",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/_layouts/default.html",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/overrides/Products.CMFPlone.skins.plone_login.login_form.cpt",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/_layouts/landingpage.html",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/frontpage.html",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/index.html",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/front-page.html",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/less/application.less",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/less/boxes.less",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/less/header.less",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/_layouts/simple.html",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/_includes/toolbar.html",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/less/settings.less",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/less/styles.less",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/less/frontpage.less",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/Gruntfile.js",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/_config.yml",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/_site/index.html",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/_includes/javascript.html",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/_includes/footer.html",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/_includes/head.html",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/.gitignore",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/.bowerrc",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/.editorconfig",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/.jshintrc",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/bower.json",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/config.json",
+		"/Users/cb/devel/adk/buildout.adk/src/adk.sitetheme/adk/sitetheme/resources/package.json",
+		"/Users/cb/devel/brem/kotti_mb/deployment.ini",
+		"/Users/cb/devel/brem/app.ini",
+		"/Users/cb/devel/brem/kotti_mb/development.ini",
+		"/Users/cb/devel/brem/buildout.brem/fabfile.py",
+		"/Users/cb/devel/brem/buildout.brem/src/vwc.blog/vwc/blog/profiles/default/types/vwc.blog.blog.xml",
+		"/Users/cb/devel/brem/buildout.brem/src/vwc.blog/vwc/blog/profiles/default/types/vwc.blog.blogentry.xml",
+		"/Users/cb/devel/brem/buildout.brem/src/vwc.blog/vwc/blog/profiles/default/types/vwc.blog.landingpage.xml",
+		"/Users/cb/devel/brem/buildout.brem/src/vwc.blog/vwc/blog/blogview_templates/pressview.pt",
+		"/Users/cb/devel/brem/buildout.brem/src/vwc.blog/vwc/blog/blogview_templates/blogcategoryview.pt",
+		"/Users/cb/devel/brem/buildout.brem/src/vwc.blog/vwc/blog/blogentry_templates/view.pt",
+		"/Users/cb/devel/brem/buildout.brem/src/vwc.blog/vwc/blog/blog_templates/view.pt",
+		"/Users/cb/devel/brem/buildout.brem/src/vwc.blog/vwc/blog/configure.zcml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/cb/devel/brem/buildout.brem/src/brem.sitetheme",
+			"/Users/cb/devel/ces/buildout.ces/src/ces.sitetheme",
+			"/Users/cb/devel/balzer/buildout.lb/src/example.sitetheme",
+			"/Users/cb/devel/roconsulting/buildout.ro/src/ro.sitetheme"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"background-si",
+			"query",
+			"example",
+			"ro",
+			"example"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"brem",
+			"ces",
+			"lb",
+			"ro"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"output.git-pull":
+	{
+		"height": 102.0
+	},
+	"project": "bp-webserver.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 386.0,
+		"selected_items":
+		[
+		],
+		"width": 637.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
