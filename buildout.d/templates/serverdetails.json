@@ -58,6 +58,6 @@
       "type": "plone",
       "port": "${ports:zope9}",
       "url": "${hosts:zope9}"
-    },
+    }
   ]
 }
